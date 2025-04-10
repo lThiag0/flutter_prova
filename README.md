@@ -1,6 +1,8 @@
 # flutter_prova
 
-A new Flutter project.
+A new Flutter project. para prova de ADS
+
+- Aluno: Thiago Araujo
 
 ## Getting Started
 
